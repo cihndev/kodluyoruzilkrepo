@@ -31,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Proje Resmi
-![](kodluyoruzilkrepo.JPG)
+![](https://github.com/cihndev/kodluyoruzilkrepo/blob/3347675064a6bc6f7e16f406e99173badd786c08/kodluyoruzilkrepo.JPG)
